@@ -1,2 +1,7 @@
 We have 2 types of memory in JS: Stack and Heap.
 Stack is used for primitive datatypes while Heap is used for non-primitive datatypes.
+In stack we get a copy of the variable decleared whereas in heap we get refernece of the data stored in the variable decleared.
+So changes will occur on the copy in stack while in the oriiginla in case of heap.
+
+//Check the video once again for the example.
+https://youtu.be/7gwc-1czolw?si=Ig8Kx7Wd0bh1Cnon
