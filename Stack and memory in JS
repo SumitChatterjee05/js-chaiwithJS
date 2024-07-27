@@ -1,0 +1,2 @@
+We have 2 types of memory in JS: Stack and Heap.
+Stack is used for primitive datatypes while Heap is used for non-primitive datatypes.
